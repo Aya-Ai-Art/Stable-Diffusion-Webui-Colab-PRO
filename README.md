@@ -1,9 +1,7 @@
 # Stable-Diffusion-Webui-Colab-PRO
 Stable-Diffusion-Webui-Colab-PRO-Friendly-Repository
 
-
-
-[![](https://img.shields.io/static/v1?message=Open%20in%20Colab&logo=googlecolab&labelColor=5c5c5c&color=0f80c1&label=%20&style=for-the-badge)]src="https://camo.githubusercontent.com/84f0493939e0c4de4e6dbe113251b4bfb5353e57134ffd9fcab6b8714514d4d1/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667">
+[![](https://img.shields.io/static/v1?message=Open%20in%20Colab&logo=googlecolab&labelColor=5c5c5c&color=0f80c1&label=%20&style=for-the-badge)](https://github.com/Aya-Ai-Art/Stable-Diffusion-Webui-Colab-PRO/blob/main/Stable-Diffusion-Webui-Colab-PRO.ipynb)
 
 # Wiki
 https://github.com/ddPn08/automatic1111-colab/wiki
